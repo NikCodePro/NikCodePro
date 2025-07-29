@@ -1,47 +1,49 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nikhil Verma
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
+[![GitHub followers](https://img.shields.io/github/followers/NikCodePro?style=social)](https://github.com/NikCodePro?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) <!-- Update with your actual LinkedIn -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com) <!-- Update with your portfolio -->
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to build amazing things and contribute to the open-source community. I enjoy learning new technologies and solving complex problems.
+I'm Nikhil Verma, a passionate Python Full Stack Developer from Delhi, working at Itech Creators. I specialize in web development using Django and FastAPI for RESTful applications, and also craft AI-based applications with neural networks. I thrive on building amazing things, solving tough problems, and contributing to open source!
 
-- 🔭 I'm currently working on [Project Name](link)
-- 🌱 I'm currently learning [Technology/Language]
-- 👯 I'm looking to collaborate on [Type of projects]
-- 💬 Ask me about [Your expertise]
-- 📫 How to reach me: [email/website]
-- ⚡ Fun fact: [Interesting fact about you]
+- 🔭 I'm currently working on several exciting projects in AI and web development.
+- 🌱 Currently exploring advanced neural networks and scalable backend architectures.
+- 👯 Looking to collaborate on AI, web, and open source projects.
+- 💬 Ask me about Python (Django, FastAPI), REST APIs, and AI/ML solutions.
+- 📫 How to reach me: [your email/website here]
+- ⚡ Fun fact: I love merging creativity with code to deliver real-world solutions!
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikCodePro&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NikCodePro)
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikCodePro&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) <!-- Update with your actual LinkedIn -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com) <!-- Update with your portfolio -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) <!-- Update with your email -->
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [NikCodePro](https://github.com/NikCodePro)
